@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/web-ellys-app/static/css/main.f091ef67.css",
+    "main.js": "/web-ellys-app/static/js/main.dc20f136.js",
+    "static/js/787.ae3ba4c0.chunk.js": "/web-ellys-app/static/js/787.ae3ba4c0.chunk.js",
+    "static/media/FotoEllys.png": "/web-ellys-app/static/media/FotoEllys.312a7abfe97fe6f93693.png",
+    "static/media/background.jpg": "/web-ellys-app/static/media/background.2539496edfde4ef41217.jpg",
+    "static/media/about.jpg": "/web-ellys-app/static/media/about.bfc82fcab5458ae012ee.jpg",
+    "static/media/work3.jpg": "/web-ellys-app/static/media/work3.c84f660408098d9c4af3.jpg",
+    "static/media/work6.jpg": "/web-ellys-app/static/media/work6.d9688281437e038f8d9d.jpg",
+    "static/media/work5.jpg": "/web-ellys-app/static/media/work5.51c97438230d7495f1cc.jpg",
+    "static/media/work1.jpg": "/web-ellys-app/static/media/work1.797fa73792c9a740758a.jpg",
+    "static/media/work4.jpg": "/web-ellys-app/static/media/work4.f8ccb39ae0e1cca976f8.jpg",
+    "static/media/work2.jpg": "/web-ellys-app/static/media/work2.667774191f311c9bc8f6.jpg",
+    "static/media/intro.png": "/web-ellys-app/static/media/intro.6f0f9e15f8234a7da862.png",
+    "static/media/target.svg": "/web-ellys-app/static/media/target.7c70fa1a668579b8785ab5df4484de6a.svg",
+    "static/media/energy.svg": "/web-ellys-app/static/media/energy.824b19a43ef7b811e685f14ab353ed5a.svg",
+    "static/media/brush.svg": "/web-ellys-app/static/media/brush.0133886d6eb615eb2e712f28b74abfc8.svg",
+    "index.html": "/web-ellys-app/index.html",
+    "main.f091ef67.css.map": "/web-ellys-app/static/css/main.f091ef67.css.map",
+    "main.dc20f136.js.map": "/web-ellys-app/static/js/main.dc20f136.js.map",
+    "787.ae3ba4c0.chunk.js.map": "/web-ellys-app/static/js/787.ae3ba4c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f091ef67.css",
+    "static/js/main.dc20f136.js"
+  ]
+}
